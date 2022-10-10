@@ -12,7 +12,7 @@ from git import exc
 import subprocess
 
 
-# Test comment for Codacy
+# Test comment for Codacy!
 
 def getDevEmailForCommit(repo_path_param, hash_):
     author_emails = []
